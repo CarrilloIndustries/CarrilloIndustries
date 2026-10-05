@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <b>Circuit boards, the firmware that runs on them, and the software that talks to both.</b>
+  <b>Circuit boards, the firmware that runs on them, and the software that talks to both.</b><br>
+  <a href="https://carrilloindustries.com">CarrilloIndustries.com</a>
 </p>
 
 I'm an embedded systems engineer working in R&D. I take an instrument from the first block diagram through schematic, layout, bring-up and firmware to the desktop tool that drives it on the bench, and back again when the measurements say something should change. This account is where I share the parts of that work worth reusing.
